@@ -1,5 +1,5 @@
+# JAVA — 从入门到实践
 
-# Ide 
-  推荐：[IntelliJ IDEA](https://www.jetbrains.com/idea/)
-# 依赖管理
-  Maven, Gradle
+介绍一些知识和相关的热门开源项目。
+
+##Summary
